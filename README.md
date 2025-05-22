@@ -1,2 +1,4 @@
-This is originally written in Visual Studio Code, so to run the program, just open the file in Visual Studio Code and then open it from file directory
-to see the visual changes in your default browser.
+For BasicWebsiteRd1 (Open in default browser)
+   I didn't feel comfortable putting my contact information and hyper links to the project. 
+   Also had some trouble trying to move the OpenSource Work section underneath the Work Experience
+   section.
