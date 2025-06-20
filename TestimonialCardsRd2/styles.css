@@ -1,0 +1,37 @@
+.card-wrapper {
+    overflow: hidden;
+}
+
+.firstcard {
+    background-color: black;
+    width: 300px;
+    height: 170px;
+    border-radius: 15px;
+    position:absolute;
+    margin-left: 200px;
+    margin-top: 70px;
+    
+}
+
+.firstcard-content {
+    color: white;
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.secondcard {
+    background-color: white;
+    margin-left: 800px; 
+    margin-top: 70px;
+    border: solid;
+    position: absolute;
+    border-radius: 15px;
+    margin-right: 200px;
+}
+
+.secondcard-content {
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+}
